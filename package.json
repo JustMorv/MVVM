@@ -1,0 +1,22 @@
+{
+  "name": "packege.json",
+  "version": "1.0.0",
+  "description": "mvvm",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https"
+  },
+  "keywords": [
+    "model",
+    "view",
+    "modalView",
+    "node",
+    "andIm"
+  ],
+  "author": "JustMorv",
+  "license": "ISC"
+}
